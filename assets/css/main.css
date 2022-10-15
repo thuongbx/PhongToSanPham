@@ -1,0 +1,21 @@
+.product {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.product>.mainpicture {
+    width: 600px;
+    margin-bottom: 20px;
+    border: 1px solid #333;
+}
+
+.product>.colors {
+    text-align: center;
+}
+
+.product>.colors>img {
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+    border: 1px solid #333;
+}
